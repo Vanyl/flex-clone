@@ -50,6 +50,7 @@ h3{
     display: flex;
     margin-top: 9px;
     margin-left:132px;
+    margin-bottom: 15px;
 }
 
 li{
@@ -86,6 +87,4 @@ hr{
     justify-content: center;
     align-items: center;
     padding: 18px 34px 17px 34px;
-    position: absolute;
-    margin-top: 430px;
 }
